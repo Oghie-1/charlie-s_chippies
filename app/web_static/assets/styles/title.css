@@ -1,0 +1,26 @@
+.title_container {
+    font-size: 18px;
+}
+
+.title {
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url("../media/chips.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+
+.main_title {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.825);
+    z-index: 4;
+}
+
+.sub_title {
+    color: rgba(0, 0, 0, 0.825);
+    font-weight: bolder;
+}

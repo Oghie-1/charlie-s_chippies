@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #3f826d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 15px;
+    width: 100%;
+    height: 90px;
+    color: #e1e6e1;
+}
+
+.divider {
+    width: 100%;
+    background-color: #e2725b;
+    height: 15px;
+    margin: 0;
+
+}
+
+.title_container, .gallery_container, .about_container, .reviews{
+    width: 100%;
+    background-color: #e1e6e1;
+    text-align: center;
+    color: #3f826d;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: whitesmoke;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+    color: #3f826d;
+}
